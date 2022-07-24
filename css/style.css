@@ -22,3 +22,12 @@ body {
 .carousel-caption p {
   font-size: 16px;
 }
+.card-body p {
+  font-size: 16px;
+  font-weight: 400;
+}
+footer {
+  background-color: #000;
+  color: #fff;
+  margin-top: 50px;
+}
