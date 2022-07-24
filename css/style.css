@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.nav-item a {
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 26px;
+}
+#last-item {
+  margin-right: 0px;
+}
+.logo {
+  font-size: 16px;
+  font-weight: 500;
+}
+.carousel-caption h5 {
+  font-size: 50px;
+}
+.carousel-caption p {
+  font-size: 16px;
+}
